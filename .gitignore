@@ -1,0 +1,9 @@
+config.py
+*.env
+__pycache__/
+*.pyc
+reviews_report.html
+*.png
+!report-preview.png
+!report-preview-2.png
+!report-preview-3.png
